@@ -1,4 +1,3 @@
-##edgeR analysis
 ## Load necessary packages 
 library(tidyverse)
 library(edgeR)
